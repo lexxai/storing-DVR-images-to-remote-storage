@@ -15,6 +15,14 @@ Used /bin/sh shell enviromant and additional
  - purge_old.sh - Remove old files from remote storage.
  
 
+Python:
+  	- getLiveState.py
+   - getMotion-table.py
+   - getVideo.py
+   
+Video format .dv4:
+  -  play-dv4-ffplay.sh  - Play .dv4 media
+  -  convert-dv4-ffmpeg.sh - Convert .dv4 media to .mp4
 
 
 More information on blog:
