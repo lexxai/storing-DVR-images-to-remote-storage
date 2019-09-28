@@ -17,4 +17,7 @@ Used /bin/sh shell enviromant and additional
 
 
 
-More information on blog: https://lexxai.blogspot.com/2019/09/dvr-nextcloud-webdav.html
+More information on blog:
+- https://lexxai.blogspot.com/2019/09/dvr-nextcloud-webdav.html
+- https://lexxai.blogspot.com/2019/09/split-united-interlaced-video-to-frames.html
+
