@@ -16,11 +16,13 @@ Used /bin/sh shell enviromant and additional
  
 
 Python:
-  	- getLiveState.py
+  	
+   - getLiveState.py
    - getMotion-table.py
    - getVideo.py
    
 Video format .dv4:
+  
   -  play-dv4-ffplay.sh  - Play .dv4 media
   -  convert-dv4-ffmpeg.sh - Convert .dv4 media to .mp4
 
