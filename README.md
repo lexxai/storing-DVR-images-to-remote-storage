@@ -8,11 +8,11 @@ Tested with:
  
 Scripts:
 Used /bin/sh shell enviromant and additional 
- dvr-synctime.sh - Force Sync dvr for get time from NTP server
- getImages-pull.sh - Get images by pereodically requests to motion table of DVR. Script runned by cron every 1 mins.
- getImages-wait.sh - Get information about DVR state by connect to tcp socket of DVR and wait changes of state. Script run bt boot and always loaded.
- getImg.sh - Get images (snapshot) from DVR sceen and save repeatly during some time to remote storage by use webdav protocol.
- purge_old.sh - Remove old files from remote storage.
+ - dvr-synctime.sh - Force Sync dvr for get time from NTP server
+ - getImages-pull.sh - Get images by pereodically requests to motion table of DVR. Script runned by cron every 1 mins.
+ - getImages-wait.sh - Get information about DVR state by connect to tcp socket of DVR and wait changes of state. Script run bt boot and always loaded.
+ - getImg.sh - Get images (snapshot) from DVR sceen and save repeatly during some time to remote storage by use webdav protocol.
+ - purge_old.sh - Remove old files from remote storage.
  
 
 
